@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhonnier01
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning spring tool and C#
+- 🌱 I’m currently learning java spring tool and C#
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me joniergarcia2@gmail.com
 
